@@ -1,0 +1,50 @@
+_repo: The-Wit-and-Humor-of-America-Volume-III.--of-X.-_18734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wilder, Marshall Pinckney
+    alias: Wilder, Marshall P.
+    birthdate: 1859
+    deathdate: 1915
+    gutenberg_agent_id: '8044'
+    url: http://www.gutenberg.org/2009/agents/8044
+description: ''
+gutenberg_bookshelf:
+- Humor
+- Short Stories
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Humor'
+- !lcsh 'American wit and humor'
+- !lcc 'PN'
+tableOfContents: An Arkansas Planter, by Read -- The Auto Rubaiyat, by Kauffman --
+  A Ballade of the "How To" Books, by Davies -- The Bohemians of Boston, by Burgess
+  -- The Courtin', by Lowell -- The Crimson Cord, by Butler -- The Diamond Wedding,
+  by Stedman -- Dislikes, by Holmes -- A Dos't o' Blues, by Riley -- The Dying Gag,
+  by Ford -- Elizabeth Eliza Writes a Paper, by Hale -- Garden Ethics, by Warner --
+  The Genial Idiot Suggests a Comic Opera, by Bangs -- Hans Breitmann's Party, by
+  Leland -- The Hired Hand and "Ha'nts," by Laughlin -- In Elizabeth's Day, by Rice
+  -- In Philistia, by Carman -- A Letter from Home, by Irwin -- The Little Mock-Man,
+  by Riley -- Little Orphant Annie, by Riley -- Mammy's Lullaby, by Gillilan -- Maxioms,
+  by Wells -- Morris and the Honorable Tim, by Kelly -- Mr. Stiver's Horse, by Bailey
+  -- My First Visit to Portland, by Downing -- My Sweetheart, by Peck -- The New Version,
+  by Lampton -- Our New Neighbors at Ponkapog, by Aldrich -- The Plaint of Jonah,
+  by Burdette -- The Retort, by Morris -- The Rhyme of the Chivalrous Shark, by Irwin
+  -- Rollo Learning to Read, by Burdette -- Selecting the Faculty, by Hall -- Southern
+  Sketches, by Arp -- The Tower of London, by Ward -- A Traveled Donkey, by Taylor
+  -- The Tree-Toad, by Riley -- The Two Automobilists, by Wells -- The Two Business
+  Men, by Wells -- The Two Housewives, by Wells -- The Two Ladies, by Wells -- The
+  Two Young Men, by Wells -- Uncle Simon and Uncle Jim, by Ward -- Wamsley's Automatic
+  Pastor, by Crane -- Wild Animals I Have Met, by Wells.
+title: The Wit and Humor of America, Volume III. (of X.)
+url: http://www.gutenberg.org/ebooks/18734
